@@ -1,2 +1,2 @@
-# Account-registration
-KOUMAGAMEアカウント登録
+# KOUMAGAMEアカウント登録
+KOUMAGAMEアカウントを登録しよう
